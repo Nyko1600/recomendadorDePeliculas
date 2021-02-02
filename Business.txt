@@ -1,0 +1,2 @@
+*El estado de animo del usuario es una parametro necesario para instanciar un usuario
+*El tiempo de duracion esta considerado en minutos
